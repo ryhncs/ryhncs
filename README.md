@@ -12,7 +12,7 @@
 
 ### 🔭 About me
 
-- 🎓 M.Sc. research on **Agent Harness systems** (Meta-Harness, Self-Harness, λ_A) — architectures for more reliable, self-correcting AI agents.
+- 🎓 M.Sc. research on **Agent Harness systems**  — architectures for more reliable, self-correcting AI agents.
 - 💼 Managing the full digital presence (web + social) at **Alert Construction**.
 - 🌱 Always building side projects and sharpening my ML skills.
 
